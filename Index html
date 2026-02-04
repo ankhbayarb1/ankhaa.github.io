@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Миний Анхны Вэб Сайт</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #f8f8f8;
+        text-align: center;
+        padding: 50px;
+      }
+      h1 {
+        color: #333;
+      }
+      p {
+        color: #555;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Сайн байна уу! 👋</h1>
+    <p>Энэ бол миний GitHub Pages сайтаас хөтлөн үзэж байгаа жишээ вэб сайт.</p>
+  </body>
+</html>
